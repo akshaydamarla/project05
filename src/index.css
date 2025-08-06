@@ -1,0 +1,6 @@
+html,body, #root{
+  margin: 0;
+  height: 100%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: #f1f3f5;
+}
